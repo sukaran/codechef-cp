@@ -10,7 +10,7 @@ int main()
 	{
 	
 	int i,n,m;
-	char s[100],temp;
+	char s[1000],temp;
 	
 	
 	cin>>n;
@@ -56,6 +56,7 @@ int main()
 	{
 	cout<<s[i];
 	}	
-		
+		cout<<endl;
 	}
+	return 0;
 }
